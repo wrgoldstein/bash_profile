@@ -17,7 +17,7 @@ Macbook pro 13''
 
 ## Languages/programs
 
- - Ruby for web apps
+ - Ruby for web apps and data pipelines
  - Python for 
    * data analysis (Pandas)
    * modeling (Pymc, Scikit-learn, patsy)
@@ -25,7 +25,7 @@ Macbook pro 13''
    * optimization(Scipy.optimize)
  - Javascript for data visualization (D3)
  - Shell scripts for bootstrap/setup/downloading things
- - Excel for scenario modeling and spreadsheety things
+ - Excel for business modeling and spreadsheety things
  - SQL for data pulling, preferably
 
  Languages I'm interested in learning: Elixir, Clojure.
@@ -36,16 +36,17 @@ Macbook pro 13''
  - markov chain monte carlo (PYMC) for structured/hierarchical models
  - gradient boosted regression for black box predictive models
  - logistic regression or decision trees or augmented bayes for explanatory predictive models
- - simulated annealing for optimization
- - SVD for feature 
+ - simulated annealing or gradient descent for optimization
+ - SVD for feature selection
 
 
 ## Databases
 
  - Redshift for analytics warehouse
  - Postgresql for relational store and generally everything
- - Mongo or redis for document store
+ - Mongo or redis or elasticsearch for document store
  - Memcache, redis for caches
+ - Elasticsearch for search / faceted search
  - AWS S3 for whatever doesn't really go in any of these
 
 
@@ -54,6 +55,7 @@ Macbook pro 13''
  - Always CSV over TSV
  - JSON only for API responses / web data / sparse data
  - Pickle for Python serialization
+ - Marshal for Ruby serialization
  - Need to investigate Avro, Thrift, etc.
 
 
@@ -61,7 +63,7 @@ Macbook pro 13''
 
  - EC2 for misc servers
  - Heroku for simple apps
-
+ - Haven't gotten on the Docker train yet
 
 ## Services
 
@@ -74,7 +76,7 @@ Macbook pro 13''
  - Window Magnet for window management
  - 1Password for password management
  - LICEcap for screen video capture
- - Evernote for notes
+ - Sublime for notes
  - Chrome for browsing
  - Spotify for music
  - Dropbox for file sharing
